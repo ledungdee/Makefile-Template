@@ -1,0 +1,7 @@
+./other-makes-ref-on-git
+
+
+*.o 
+*.i
+*.s
+*.exe
